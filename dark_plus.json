@@ -15,13 +15,13 @@
         "border.disabled": null,
         "elevated_surface.background": null,
         "surface.background": null,
-        "background": "#1E1E1E",
+        "background": "#1e1e1e",
         "element.background": null,
         "element.hover": null,
         "element.active": null,
         "element.selected": null,
         "element.disabled": null,
-        "drop_target.background": "#383B3D",
+        "drop_target.background": "#383B3d",
         "ghost_element.background": null,
         "ghost_element.hover": null,
         "ghost_element.active": null,
@@ -39,7 +39,7 @@
         "icon.accent": null,
         "status_bar.background": null,
         "title_bar.background": null,
-        "toolbar.background": "#1E1E1E",
+        "toolbar.background": "#1e1e1e",
         "tab_bar.background": null,
         "tab.inactive_background": null,
         "tab.active_background": null,
@@ -50,16 +50,16 @@
         "scrollbar_thumb.background": null,
         "scrollbar.thumb.hover_background": null,
         "scrollbar.thumb.border": null,
-        "scrollbar.track.background": "#1E1E1E",
+        "scrollbar.track.background": "#1e1e1e",
         "scrollbar.track.border": null,
-        "editor.foreground": "#D4D4D4",
-        "editor.background": "#1E1E1E",
-        "editor.gutter.background": "#1E1E1E",
+        "editor.foreground": "#d4d4d4",
+        "editor.background": "#1e1e1e",
+        "editor.gutter.background": "#1e1e1e",
         "editor.subheader.background": null,
         "editor.active_line.background": null,
         "editor.highlighted_line.background": null,
         "editor.line_number": null,
-        "editor.active_line_number": "#D4D4D4",
+        "editor.active_line_number": "#d4d4d4",
         "editor.invisible": null,
         "editor.wrap_guide": null,
         "editor.active_wrap_guide": null,
@@ -134,7 +134,7 @@
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
-        "warning.background": null,
+        "warning.background": "#a29d00",
         "warning.border": null,
         "players": [],
         "syntax": {
@@ -149,12 +149,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#6A9955",
+            "color": "#6a9955",
             "font_style": null,
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#6A9955",
+            "color": "#6a9955",
             "font_style": null,
             "font_weight": null
           },
@@ -169,7 +169,7 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#D4D4D4",
+            "color": "#d4d4d4",
             "font_style": null,
             "font_weight": null
           },
@@ -179,7 +179,7 @@
             "font_weight": 700
           },
           "function": {
-            "color": "#DCDCAA",
+            "color": "#dcdcaa",
             "font_style": null,
             "font_weight": null
           },
@@ -269,12 +269,12 @@
             "font_weight": null
           },
           "type": {
-            "color": "#4EC9B0",
+            "color": "#4ec9b0",
             "font_style": null,
             "font_weight": null
           },
           "variable": {
-            "color": "#9CDCFE",
+            "color": "#9cdcfe",
             "font_style": null,
             "font_weight": null
           },
